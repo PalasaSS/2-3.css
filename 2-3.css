@@ -1,0 +1,405 @@
+#headerdiv {
+    display: inline-block;
+    width: 1231px;
+    margin: 0 0 0 689px;
+    background-color: #F7F4FF;
+}
+
+#nextmoveimg {
+    width: 146.58px;
+    padding: 12px 24px 12px 24px;
+    vertical-align: middle;
+}
+
+#navdiv {
+    vertical-align: middle;
+}
+
+#about {
+    display: inline-block;
+    margin-left: 277.67px;
+    vertical-align: middle;
+}
+
+#offer {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+#Contact {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+    color: #8E26C0;
+}
+
+#Help {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
+#contactus {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 337.67px;
+    padding: 8px 16px 8px 16px;
+    color: #8E26C0;
+    border: 2px solid #8E26C0;
+    border-radius: 1rem;
+}
+
+#maindiv {
+    max-width: 1920px;
+    width: 100%;
+}
+
+#offerimage {
+    display: inline-block;
+    vertical-align: middle;;
+    margin-left: 350px;
+    margin-top: 214px;
+}
+
+#whatweoffer {
+    display: inline-block;
+    vertical-align: middle;
+    width: 644px;
+    height: 48px;
+    margin-left: 45px;
+    text-align: center;
+    font-size: 40px;
+}  
+
+#imagediv{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#h2div {
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: 222px;
+}
+
+#loremtext {
+    width: 644px;
+    height: 81px;
+    font-size: 20px;
+    text-align: center;
+    color: #535862;
+}
+
+#loremspan {
+    margin-right: 320px;
+}
+
+#list {
+    margin-left: 65px;
+    width: 292px;
+    height: 32px;
+    font-size: 22px;
+}
+
+#contactusheader {
+    text-align: center;
+    margin-top: 83px;
+    font-size: 56px;
+}
+
+#lorem2 {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+}
+
+#sendmessagemaindiv {
+    background-color: #F7F4FF;
+    max-width: 1221px;
+    width: 100%;
+    height: 538px;
+    padding: 32px;
+    margin: 0 auto;
+}
+
+#firstblock {
+    display: inline-block;
+    padding: 20px 20px 20px 20px;
+    width: 403px;
+    height: 474px;
+    background-color: white;
+    margin-right: 24px;
+}
+
+#locationdivdiv {
+    width: 56px;
+    height: 56px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#addressp {
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 50px;
+    width: 291px;
+    height: 29px;
+    font-size: 20px;
+    margin-left: 16px;
+}
+
+#locationspan {
+    color: #6D5F8B;
+    height: 291px;
+    width: 22px;
+    font-size: 16px;
+}
+
+#emaildiv {
+    display: inline-block;
+    vertical-align: middle;
+    width: 403px;
+    height: 99px;
+}
+
+#emailp {
+    display: inline-block;
+    vertical-align: middle;
+    width: 222px;
+    height: 29px;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-left: 16px;
+}
+
+#emailspan {
+    color: #6D5F8B;
+    width: 222px;
+    height: 22px;
+    font-size: 16px;
+}
+
+#phonediv {
+    display: inline-block;
+    vertical-align: middle;
+    width: 363px;
+    height: 57px;
+}
+
+#phonep {
+    display: inline-block;
+    vertical-align: middle;
+    width: 103px;
+    height: 29px;
+    font-size: 20px;
+    margin-bottom: 58px;
+    margin-left: 16px;
+}
+
+#phonespan {
+    width: 103px;
+    height: 22px;
+    font-size: 16px;
+}
+
+#formmaindiv {
+    display: inline-block;
+    vertical-align: middle;
+    width: 730px;
+    height: 474px;
+}
+
+#formdiv {
+    max-width: 730px;
+    width: 100%;
+    height: 414px; 
+}
+
+#name {
+    width: 698px;
+    height: 22px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 1rem;
+    border: 1px solid #8e26c0;
+    margin-bottom: 24px;
+}
+
+#email {
+    width: 698px;
+    height: 22px;
+    padding: 8px 16px 8px 16px;
+    border-radius: 1rem;
+    border: 1px solid #8e26c0 ;
+    margin-bottom: 24px;
+}
+
+#text {
+    width: 698px;
+    height: 122px;
+    padding: 12px 16px 12px 16px;
+    border: 1px solid #8e26c0;
+    border-radius: 1rem;
+}
+
+#submit {
+    display: inline-block;
+    color: white;
+    background-color: #8E26C0;
+    width: 140px;
+    height: 48px;
+    border-radius: 1rem;
+    margin-left: 588px;
+    margin-top: 24px;
+}
+
+#footermaindiv {
+    max-width: 2030px;
+    width: 100%;
+    height: 480px;
+    background-color: #53389E;
+}
+
+#firstcontainerdiv {
+    max-width: 1280px;
+    width: 100%;
+    height: 240px;
+    padding: 64px 32px 64px 32px;
+    margin: 0 auto;
+}
+
+#products {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    width: 176px;
+    height: 20px;
+}
+
+#company {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    width: 176px;
+    height: 20px;
+}
+
+#resources {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    width: 176px;
+    height: 20px;
+}
+
+#usecases {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    width: 176px;
+    height: 20px;
+}
+
+#social {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    width: 176px;
+    height: 20px;
+}
+
+#legal {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    width: 176px;
+    height: 20px;
+    margin-left: 30px;
+}
+
+#firstlistdiv {
+    width: 176px;
+    height: 240px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#firstlist {
+    color: #E9D7FE;
+}
+
+
+#secondlistdiv {
+    display: inline-block; 
+    vertical-align: middle;
+    width: 176px;
+    height: 240px;
+}
+
+#secondlistdiv {
+    color: #E9D7FE;
+}
+
+#thirdlistdiv {
+    width: 176px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#thirdlist {
+    color: #E9D7FE;
+}
+
+#fourthlistdiv {
+    width: 176px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#fourthlist {
+    color: #E9D7FE;
+}
+
+#fifthlistdiv {
+    width: 176px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#fifthlist {
+    color: #E9D7FE;
+}
+
+#sixthlistdiv {
+    width: 176px;
+    height: 240px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#sixthlist {
+    color: #E9D7FE;
+}
+
+#footerenddiv {
+    max-width: 1280px;
+    width: 100%;
+    height: 64px;
+    border-top: 1px solid #7F56D9;
+}
+
+#endimg {
+    margin-left: 32px;
+    margin-top: 32px;
+}
+
+#lastp {
+    display: inline-block;
+    color: #D6BBFB;
+    width: 293px;
+    height: 24px;
+    margin-left: 1000px;
+}
